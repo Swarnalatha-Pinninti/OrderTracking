@@ -1,0 +1,1 @@
+export const STATUS_ENUM=['Scheduled','Reached Store','Picked Up','Out for Delivery','Delivered','Cancelled'];
